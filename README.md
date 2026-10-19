@@ -1,6 +1,6 @@
 # Walmart-Project-1-
 Shared repository for project 1 work 
-# [Project Title]
+# [Project 1 - Walmart ]
 
 **DS2002 · Fall 2026 · [Midterm | Capstone]**
 
@@ -8,9 +8,9 @@ Shared repository for project 1 work
 
 | Name | GitHub | Role / main contributions |
 |------|--------|---------------------------|
-| | | |
-| | | |
-| | | |
+| Elijah | elijahschoeniger | Data Cleaning |
+| AJ  | pizzeman | API|
+| Sophie | sophieli0113 | Visualization |
 
 ## Summary
 
