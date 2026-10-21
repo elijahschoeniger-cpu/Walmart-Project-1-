@@ -10,7 +10,7 @@ Shared repository for project 1 work
 |------|--------|---------------------------|
 | Elijah | elijahschoeniger | Data Cleaning |
 | AJ  | pizzeman | API|
-| Sophie | sophieli0113 | Visualization |
+| Sophie | Sophieli0113 | Visualization |
 
 ## Summary
 
