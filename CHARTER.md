@@ -36,4 +36,4 @@
 - **meeting time:** Monday 2-3pm
 - **channel:** Group chat on iMessage. Reply within 24 hours on weekdays.
 - **how we decide:** Vote
-- **if someone goes quiet:** Check in via group chat after 1 day of silence. After 2 days, raise it at the team meeting.If it’s still unresolved, email the professor.
+- **if someone goes quiet:** Check in via group chat after 1 day of silence. After 2 days, raise it at the team meeting.If itâ€™s still unresolved, email the professor.
