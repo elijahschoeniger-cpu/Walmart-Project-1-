@@ -25,7 +25,11 @@ The goal of this project was to analyze the transaction data for Walmart superst
 
 | File | Source | Notes |
 |------|--------|-------|
-| | | |
+|distribution_centers.csv | Given | Contains location of all distribution centers |
+|inventory_and_sales.db | Given | Contains inventory |
+|product_catalog.csv | Given | Contains all different catalog types for walmart store |
+|store_locations.csv | Given | Locations of brick-and-motors in the Florida region |
+|walmart_transactions.csv | Given | Contains all transactions for a given day |
 
 External API used: **OpenMeteo** — base URL: `https://open-meteo.com/`
 
@@ -34,17 +38,19 @@ External API used: **OpenMeteo** — base URL: `https://open-meteo.com/`
 1. Open `[notebook].ipynb` in Kaggle/Colab
 2. Run all cells top to bottom
 3. (If cloud) authenticate with your `@virginia.edu` account when prompted
+4. Check outputs
 
 ## Key findings
 
 - Entertainment increased significantly in sales
 - Weather serves as a predictor for when sales will increase
-- Finding 3
+- Location of store relative to landfall had insignificant impact on sales
+
 
 ## Recommendation
 
-_The decision you would make based on the data._
+Start restocking about a week before the storm hits, focus on Pop-Tarts, water, batteries and flashlights, stock a few more board games, an use the closest distribution center for each store without overloading Jackonville
 
 ## Reflection
 
-_Link to or location of the reflection responses (each member contributes)._
+Section 7 of notebooks/team_notebook.ipynb
